@@ -110,11 +110,12 @@ p{
 }
 #guest p{
 	font-family: 'Raleway', cursive;
-	color: #3F51B5;
+	color: #212121;
 	font-size: 1.5em;
 	text-align: left;
 	padding-left: 1em;
 	padding-top: 1em;
+	font-weight: bold;
 }
 
 #reception a{
